@@ -6,9 +6,7 @@
         <vuetify-logo />
       </div>
       <v-card>
-        <v-card-title class="headline">
-          push pertama
-        </v-card-title>
+        <v-card-title class="headline"> push pertama </v-card-title>
         <v-card-text>
           <p>
             Vuetify is a progressive Material Design component framework for

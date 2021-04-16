@@ -54,6 +54,7 @@
           </div>
           <hr class="my-3" />
           <a
+            class="links"
             href="https://nuxtjs.org/"
             target="_blank"
             rel="noopener noreferrer"
@@ -62,6 +63,7 @@
           </a>
           <br />
           <a
+            class="links"
             href="https://github.com/nuxt/nuxt.js"
             target="_blank"
             rel="noopener noreferrer"
